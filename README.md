@@ -7,4 +7,6 @@ I can be contacted via<br/>
 - Discord at *ltxria#7019*<br/>
 - E-Mail at *lxn.nrp@pm.me*<br/>
 
-My public key and signature can be found above in root of repo
+My public key and signature
+https://raw.githubusercontent.com/ltxria/ltxria/main/ltxria_nrp0_public.asc
+https://raw.githubusercontent.com/ltxria/ltxria/main/ltxria_nrp0_public.asc.sig
